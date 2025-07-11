@@ -8,3 +8,4 @@ developer - https://t.me/profcodes
 
 # instagram banner
 # instagram recovery
+# instagram ban tool
