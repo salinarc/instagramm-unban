@@ -10,3 +10,4 @@ developer - https://t.me/profcodes
 # instagram recovery
 # instagram ban tool
 # instagram ban software
+# instagram account recovery
