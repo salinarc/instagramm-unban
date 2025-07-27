@@ -13,3 +13,4 @@ developer - https://t.me/profcodes
 # instagram account recovery
 # instagram recover method
 # instagram ban reporter
+# instagram report ban
